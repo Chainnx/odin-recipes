@@ -1,1 +1,2 @@
 # odin-recipes
+This project is for creating web page/s for recipes. This is the first task for Odin Project and we will be using all we have learned so far including paragraphs, lists, headings, links and images.
